@@ -1,4 +1,4 @@
-#GPT3 Template Website
+# GPT3 Template Website
 
 This is a frontend personal project that I built by following a tutorial created by JavascriptMastery. The project is a GPT3 template website/blog completly focused on Frontend modelling so no functionality within this project page is actually working !
 
