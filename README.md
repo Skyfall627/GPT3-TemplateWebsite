@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+#GPT3 Template Website
+
+This is a frontend personal project that I built by following a tutorial created by JavascriptMastery. The project is a GPT3 template website/blog completly focused on Frontend modelling so no functionality within this project page is actually working !
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
